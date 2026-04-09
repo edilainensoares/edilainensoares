@@ -1,6 +1,6 @@
 Olá, eu sou a Edilaine Núbia Soares!
 
-QA Analyst em formação | Entusiasta da Qualidade de Software.
+QA Analyst em formação
 
 Atualmente estou em transição de carreira, migrando de contabilista para QA Tester (testes de software). Tenho me dedicado a estudos e práticas voltadas para testes de software por meio do Bootcamp TripleTen - QA Analyst. Testes em APIs Rest, bem como testes em aplicações web e mobile (interface e usabilidade) tem sido meu foco principal. Me destaco no desenvolvimento de test cases e no rigor de detalhes dos reports.
 
@@ -17,6 +17,6 @@ Conhecimentos & Ferramentas
 
 Como me encontrar:
 * www.linkedin.com/in/edilaine-soares-242797b0
-* edilaine.nsoares@gmail.com
+
 
 "A qualidade não é um ato, é um hábito."
